@@ -20,7 +20,7 @@ Developed by: TEJASWINI G
 
 Register Number: 212222230157
 
-```
+```python
 def BF(s1,s2):
     i = 0
     j = 0
